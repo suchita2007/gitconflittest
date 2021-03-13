@@ -1,2 +1,4 @@
- person a changes in file hello This is the test file to test git conflict
+Person a changes in file hello This is the test file to test git conflict
+person b changes the file hello This is the test file to test git conflict
+
 please check.
